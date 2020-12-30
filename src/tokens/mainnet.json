@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Wrapped TRX",
+    "address": "0x891cdb91d149f23B1a45D9c5Ca78a88d0cB44C18",
+    "symbol": "WTRX",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
+  },
+  {
+    "name": "TofuDeFi Token",
+    "symbol": "TOFU",
+    "address": "0xc25753642a59cdd8344ffe2e49bd112bfad26bd3",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png"
+  },
+  {
+    "name": "Just Token",
+    "symbol": "JST",
+    "address": "0x18fd0626daf3af02389aef3ed87db9c33f638ffa",
+    "decimals": 18,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/logo/just_icon.png"
+  },
+  {
+    "name": "Just Stablecoin",
+    "symbol": "USDJ",
+    "address": "0x834295921a488d9d42b4b3021ed1a3c39fb0f03e",
+    "decimals": 18,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/logo/usdj.png"
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0xa614f803b6fd780986a42c78ec9c7f77e6ded13c",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+  }
+]
