@@ -1,0 +1,74 @@
+{
+  "name": "TofuSwap Tokens",
+  "timestamp": "2021-01-03T02:00:41.089Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png",
+  "keywords": [
+    "tofu",
+    "tofuswap",
+    "tofudefi",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Just Token",
+      "symbol": "JST",
+      "address": "0x18FD0626DAF3Af02389AEf3ED87dB9C33F638ffa",
+      "decimals": 18,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/logo/just_icon.png"
+    },
+    {
+      "name": "TofuDeFi Token",
+      "symbol": "TOFU",
+      "address": "0xc25753642A59CdD8344fFe2e49bD112BFAD26BD3",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png"
+    },
+    {
+      "name": "Just Stablecoin",
+      "symbol": "USDJ",
+      "address": "0x834295921A488D9d42b4b3021ED1a3C39fB0f03e",
+      "decimals": 18,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/logo/usdj.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xa614f803B6FD780986A42c78Ec9c7f77e6DeD13C",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+    },
+    {
+      "name": "Wrapped TRX",
+      "address": "0x891cdb91d149f23B1a45D9c5Ca78a88d0cB44C18",
+      "symbol": "WTRX",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
+    },
+    {
+      "name": "DemoToken",
+      "address": "0x42C142500ff7068f326c01A8F1B3cd8ea7D9377f",
+      "symbol": "DTKN",
+      "chainId": 201910292,
+      "decimals": 6
+    },
+    {
+      "name": "Wrapped Tron",
+      "address": "0x8f44113A985076431b77f6078f0929f949cB8836",
+      "symbol": "WTRX",
+      "decimals": 6,
+      "chainId": 201910292,
+      "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
+    }
+  ]
+}
