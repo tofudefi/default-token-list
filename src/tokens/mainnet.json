@@ -25,7 +25,7 @@
   },
   {
     "name": "Bitcoin",
-    "symbol": "USDT",
+    "symbol": "BTC",
     "address": "0x84716914c0fdf7110a44030d04d0c4923504d9cc",
     "decimals": 8,
     "chainId": 11111,
@@ -33,7 +33,7 @@
   },
   {
     "name": "Ethereum",
-    "symbol": "USDT",
+    "symbol": "ETH",
     "address": "0x53908308f4aa220fb10d778b5d1b34489cd6edfc",
     "decimals": 18,
     "chainId": 11111,
