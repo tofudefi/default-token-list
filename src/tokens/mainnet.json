@@ -24,7 +24,7 @@
     "logoURI": "https://coin.top/production/logo/usdtlogo.png"
   },
   {
-    "name": "Bitcoin (TRON)",
+    "name": "Bitcoin",
     "symbol": "USDT",
     "address": "0x84716914c0fdf7110a44030d04d0c4923504d9cc",
     "decimals": 8,
@@ -32,7 +32,7 @@
     "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
   },
   {
-    "name": "Ethereum (TRON)",
+    "name": "Ethereum",
     "symbol": "USDT",
     "address": "0x53908308f4aa220fb10d778b5d1b34489cd6edfc",
     "decimals": 18,

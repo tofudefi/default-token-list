@@ -1,6 +1,6 @@
 {
   "name": "TofuSwap Tokens",
-  "timestamp": "2021-05-02T15:38:30.293Z",
+  "timestamp": "2021-05-02T15:44:17.262Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -64,7 +64,7 @@
       "logoURI": "https://coin.top/production/logo/usdtlogo.png"
     },
     {
-      "name": "Bitcoin (TRON)",
+      "name": "Bitcoin",
       "symbol": "USDT",
       "address": "0x84716914C0fDf7110A44030d04D0C4923504D9CC",
       "decimals": 8,
@@ -72,7 +72,7 @@
       "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
     },
     {
-      "name": "Ethereum (TRON)",
+      "name": "Ethereum",
       "symbol": "USDT",
       "address": "0x53908308f4AA220FB10d778B5D1B34489cd6eDfc",
       "decimals": 18,
