@@ -1,6 +1,6 @@
 {
   "name": "TofuSwap Tokens",
-  "timestamp": "2021-01-03T02:00:41.089Z",
+  "timestamp": "2021-05-02T15:38:30.293Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -24,6 +24,22 @@
       "logoURI": "https://coin.top/production/logo/just_icon.png"
     },
     {
+      "name": "Klever",
+      "symbol": "KLV",
+      "address": "0xD8b8089856ced3038601cbeB1e3f765cABC12a41",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/upload/logo/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS.png"
+    },
+    {
+      "name": "SUN",
+      "symbol": "SUN",
+      "address": "0x6b5151320359Ec18b08607c70a3b7439Af626aa3",
+      "decimals": 18,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png"
+    },
+    {
       "name": "TofuDeFi Token",
       "symbol": "TOFU",
       "address": "0xc25753642A59CdD8344fFe2e49bD112BFAD26BD3",
@@ -32,7 +48,7 @@
       "logoURI": "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png"
     },
     {
-      "name": "Just Stablecoin",
+      "name": "Just USD Stablecoin",
       "symbol": "USDJ",
       "address": "0x834295921A488D9d42b4b3021ED1a3C39fB0f03e",
       "decimals": 18,
@@ -46,6 +62,38 @@
       "decimals": 6,
       "chainId": 11111,
       "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+    },
+    {
+      "name": "Bitcoin (TRON)",
+      "symbol": "USDT",
+      "address": "0x84716914C0fDf7110A44030d04D0C4923504D9CC",
+      "decimals": 8,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+    },
+    {
+      "name": "Ethereum (TRON)",
+      "symbol": "USDT",
+      "address": "0x53908308f4AA220FB10d778B5D1B34489cd6eDfc",
+      "decimals": 18,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+    },
+    {
+      "name": "Wrapped BTT",
+      "symbol": "WBTT",
+      "address": "0x6A6337aE47A09AeA0BBd4FaeB23cA94349c7b774",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
+    },
+    {
+      "name": "WINkLink",
+      "symbol": "WIN",
+      "address": "0x74472E7D35395A6b5add427EEcB7F4B62AD2b071",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg"
     },
     {
       "name": "Wrapped TRX",

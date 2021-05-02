@@ -16,6 +16,30 @@
     "logoURI": "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png"
   },
   {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0xa614f803b6fd780986a42c78ec9c7f77e6ded13c",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+  },
+  {
+    "name": "Bitcoin (TRON)",
+    "symbol": "USDT",
+    "address": "0x84716914c0fdf7110a44030d04d0c4923504d9cc",
+    "decimals": 8,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+  },
+  {
+    "name": "Ethereum (TRON)",
+    "symbol": "USDT",
+    "address": "0x53908308f4aa220fb10d778b5d1b34489cd6edfc",
+    "decimals": 18,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+  },
+  {
     "name": "Just Token",
     "symbol": "JST",
     "address": "0x18fd0626daf3af02389aef3ed87db9c33f638ffa",
@@ -24,7 +48,7 @@
     "logoURI": "https://coin.top/production/logo/just_icon.png"
   },
   {
-    "name": "Just Stablecoin",
+    "name": "Just USD Stablecoin",
     "symbol": "USDJ",
     "address": "0x834295921a488d9d42b4b3021ed1a3c39fb0f03e",
     "decimals": 18,
@@ -32,11 +56,35 @@
     "logoURI": "https://coin.top/production/logo/usdj.png"
   },
   {
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "address": "0xa614f803b6fd780986a42c78ec9c7f77e6ded13c",
+    "name": "Wrapped BTT",
+    "symbol": "WBTT",
+    "address": "0x6a6337ae47a09aea0bbd4faeb23ca94349c7b774",
     "decimals": 6,
     "chainId": 11111,
-    "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+    "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
+  },
+  {
+    "name": "WINkLink",
+    "symbol": "WIN",
+    "address": "0x74472e7d35395a6b5add427eecb7f4b62ad2b071",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg"
+  },
+  {
+    "name": "SUN",
+    "symbol": "SUN",
+    "address": "0x6b5151320359ec18b08607c70a3b7439af626aa3",
+    "decimals": 18,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png"
+  },
+  {
+    "name": "Klever",
+    "symbol": "KLV",
+    "address": "0xd8b8089856ced3038601cbeb1e3f765cabc12a41",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/upload/logo/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS.png"
   }
 ]
