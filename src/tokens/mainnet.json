@@ -86,5 +86,13 @@
     "decimals": 6,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/upload/logo/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS.png"
+  },
+  {
+    "name": "Centric CASH",
+    "symbol": "CNS",
+    "address": "0x7c503a569a8e62210bdce6b3e733272e154d08ab",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/upload/logo/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt.png"
   }
 ]
