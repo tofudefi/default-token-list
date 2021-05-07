@@ -1,6 +1,6 @@
 {
   "name": "TofuSwap Tokens",
-  "timestamp": "2021-05-07T11:45:00.897Z",
+  "timestamp": "2021-05-07T11:59:17.796Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -27,7 +27,7 @@
       "name": "Centric CASH",
       "symbol": "CNS",
       "address": "0x7C503A569a8E62210bdCe6b3e733272e154d08ab",
-      "decimals": 6,
+      "decimals": 8,
       "chainId": 11111,
       "logoURI": "https://coin.top/production/upload/logo/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt.png"
     },
