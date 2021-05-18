@@ -1,6 +1,6 @@
 {
   "name": "TofuSwap Tokens",
-  "timestamp": "2021-05-07T11:59:17.796Z",
+  "timestamp": "2021-05-18T14:10:02.069Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -32,6 +32,14 @@
       "logoURI": "https://coin.top/production/upload/logo/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt.png"
     },
     {
+      "name": "TRONbetDice",
+      "symbol": "DICE",
+      "address": "0x6cE0632A762689a207b9CCE915e93Aa9596816CA",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/upload/logo/TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd.png"
+    },
+    {
       "name": "Ethereum",
       "symbol": "ETH",
       "address": "0x53908308f4AA220FB10d778B5D1B34489cd6eDfc",
@@ -54,6 +62,14 @@
       "decimals": 6,
       "chainId": 11111,
       "logoURI": "https://coin.top/production/upload/logo/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS.png"
+    },
+    {
+      "name": "TRONbetLive",
+      "symbol": "LIVE",
+      "address": "0xD829659F0F7661f29F12F07a5Be33C13b6c9dD59",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/upload/logo/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK.png"
     },
     {
       "name": "SUN",

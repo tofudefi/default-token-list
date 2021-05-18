@@ -88,6 +88,22 @@
     "logoURI": "https://coin.top/production/upload/logo/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS.png"
   },
   {
+    "name": "TRONbetDice",
+    "symbol": "DICE",
+    "address": "0x6ce0632a762689a207b9cce915e93aa9596816ca",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/upload/logo/TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd.png"
+  },
+  {
+    "name": "TRONbetLive",
+    "symbol": "LIVE",
+    "address": "0xd829659f0f7661f29f12f07a5be33c13b6c9dd59",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/upload/logo/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK.png"
+  },
+  {
     "name": "Centric CASH",
     "symbol": "CNS",
     "address": "0x7c503a569a8e62210bdce6b3e733272e154d08ab",
