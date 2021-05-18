@@ -1,6 +1,6 @@
 {
   "name": "TofuSwap Tokens",
-  "timestamp": "2021-05-18T14:21:24.063Z",
+  "timestamp": "2021-05-18T14:31:38.385Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -37,7 +37,7 @@
       "address": "0x6cE0632A762689a207b9CCE915e93Aa9596816CA",
       "decimals": 6,
       "chainId": 11111,
-      "logoURI": "https://coin.top/production/logo/TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd.png"
+      "logoURI": "https://coin.top/production/logo/TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd.jpg"
     },
     {
       "name": "Ethereum",
