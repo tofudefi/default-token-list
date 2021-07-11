@@ -1,6 +1,6 @@
 {
   "name": "TofuSwap Tokens",
-  "timestamp": "2021-05-18T14:31:38.385Z",
+  "timestamp": "2021-07-11T16:46:05.929Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -72,12 +72,20 @@
       "logoURI": "https://coin.top/production/upload/logo/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK.png"
     },
     {
-      "name": "SUN",
-      "symbol": "SUN",
+      "name": "NoleCoin",
+      "symbol": "NOLE",
+      "address": "0x989baf8d41cfDb3c81B15A2228E09ab7d7B5DcDE",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/upload/logo/TPt8DTDBZYfJ9fuyRjdWJr4PP68tRfptLG.png"
+    },
+    {
+      "name": "SUNOLD",
+      "symbol": "SUNOLD",
       "address": "0x6b5151320359Ec18b08607c70a3b7439Af626aa3",
       "decimals": 18,
       "chainId": 11111,
-      "logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png"
+      "logoURI": "https://coin.top/production/upload/logo/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9.png"
     },
     {
       "name": "TofuDeFi Token",

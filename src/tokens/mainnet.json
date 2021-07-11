@@ -10,7 +10,7 @@
   {
     "name": "TofuDeFi Token",
     "symbol": "TOFU",
-    "address": "0xc25753642a59cdd8344ffe2e49bd112bfad26bd3",
+    "address": "0xc25753642A59CdD8344fFe2e49bD112BFAD26BD3",
     "decimals": 6,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png"
@@ -18,7 +18,7 @@
   {
     "name": "Tether USD",
     "symbol": "USDT",
-    "address": "0xa614f803b6fd780986a42c78ec9c7f77e6ded13c",
+    "address": "0xa614f803B6FD780986A42c78Ec9c7f77e6DeD13C",
     "decimals": 6,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/logo/usdtlogo.png"
@@ -26,7 +26,7 @@
   {
     "name": "Bitcoin",
     "symbol": "BTC",
-    "address": "0x84716914c0fdf7110a44030d04d0c4923504d9cc",
+    "address": "0x84716914C0fDf7110A44030d04D0C4923504D9CC",
     "decimals": 8,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
@@ -34,7 +34,7 @@
   {
     "name": "Ethereum",
     "symbol": "ETH",
-    "address": "0x53908308f4aa220fb10d778b5d1b34489cd6edfc",
+    "address": "0x53908308f4AA220FB10d778B5D1B34489cd6eDfc",
     "decimals": 18,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
@@ -42,7 +42,7 @@
   {
     "name": "Just Token",
     "symbol": "JST",
-    "address": "0x18fd0626daf3af02389aef3ed87db9c33f638ffa",
+    "address": "0x18FD0626DAF3Af02389AEf3ED87dB9C33F638ffa",
     "decimals": 18,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/logo/just_icon.png"
@@ -50,7 +50,7 @@
   {
     "name": "Just USD Stablecoin",
     "symbol": "USDJ",
-    "address": "0x834295921a488d9d42b4b3021ed1a3c39fb0f03e",
+    "address": "0x834295921A488D9d42b4b3021ED1a3C39fB0f03e",
     "decimals": 18,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/logo/usdj.png"
@@ -58,7 +58,7 @@
   {
     "name": "Wrapped BTT",
     "symbol": "WBTT",
-    "address": "0x6a6337ae47a09aea0bbd4faeb23ca94349c7b774",
+    "address": "0x6A6337aE47A09AeA0BBd4FaeB23cA94349c7b774",
     "decimals": 6,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
@@ -66,23 +66,23 @@
   {
     "name": "WINkLink",
     "symbol": "WIN",
-    "address": "0x74472e7d35395a6b5add427eecb7f4b62ad2b071",
+    "address": "0x74472E7D35395A6b5add427EEcB7F4B62AD2b071",
     "decimals": 6,
     "chainId": 11111,
     "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg"
   },
   {
-    "name": "SUN",
-    "symbol": "SUN",
-    "address": "0x6b5151320359ec18b08607c70a3b7439af626aa3",
+    "name": "SUNOLD",
+    "symbol": "SUNOLD",
+    "address": "0x6b5151320359Ec18b08607c70a3b7439Af626aa3",
     "decimals": 18,
     "chainId": 11111,
-    "logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png"
+    "logoURI": "https://coin.top/production/upload/logo/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9.png"
   },
   {
     "name": "Klever",
     "symbol": "KLV",
-    "address": "0xd8b8089856ced3038601cbeb1e3f765cabc12a41",
+    "address": "0xD8b8089856ced3038601cbeB1e3f765cABC12a41",
     "decimals": 6,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/upload/logo/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS.png"
@@ -90,7 +90,7 @@
   {
     "name": "TRONbetDice",
     "symbol": "DICE",
-    "address": "0x6ce0632a762689a207b9cce915e93aa9596816ca",
+    "address": "0x6cE0632A762689a207b9CCE915e93Aa9596816CA",
     "decimals": 6,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/logo/TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd.jpg"
@@ -98,7 +98,7 @@
   {
     "name": "TRONbetLive",
     "symbol": "LIVE",
-    "address": "0xd829659f0f7661f29f12f07a5be33c13b6c9dd59",
+    "address": "0xD829659F0F7661f29F12F07a5Be33C13b6c9dD59",
     "decimals": 6,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/upload/logo/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK.png"
@@ -106,9 +106,17 @@
   {
     "name": "Centric CASH",
     "symbol": "CNS",
-    "address": "0x7c503a569a8e62210bdce6b3e733272e154d08ab",
+    "address": "0x7C503A569a8E62210bdCe6b3e733272e154d08ab",
     "decimals": 8,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/upload/logo/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt.png"
+  },
+  {
+    "name": "NoleCoin",
+    "symbol": "NOLE",
+    "address": "0x989baf8d41cfDb3c81B15A2228E09ab7d7B5DcDE",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/upload/logo/TPt8DTDBZYfJ9fuyRjdWJr4PP68tRfptLG.png"
   }
 ]
