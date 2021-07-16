@@ -1,10 +1,10 @@
 {
   "name": "TofuSwap Tokens",
-  "timestamp": "2021-07-11T16:53:40.668Z",
+  "timestamp": "2021-07-16T14:37:06.828Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png",
@@ -78,6 +78,14 @@
       "decimals": 6,
       "chainId": 11111,
       "logoURI": "https://coin.top/production/upload/logo/TPt8DTDBZYfJ9fuyRjdWJr4PP68tRfptLG.png"
+    },
+    {
+      "name": "Safe Money",
+      "symbol": "SafeMoney",
+      "address": "0x8605caE8c40545D2184D59550918185f44D9ea0d",
+      "decimals": 8,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/upload/logo/TNBrVEzuVYbNbGF2ua3ivSX5Y5V9N4xhax.png"
     },
     {
       "name": "SUNOLD",
