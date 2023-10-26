@@ -15,7 +15,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png",
+      "https://static.tronscan.org/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png",
     keywords: ["tofu", "tofuswap", "tofudefi", "default"],
     tokens: [...mainnet, ...nile]
       // sort them by symbol for easy readability
