@@ -99,7 +99,7 @@
     "name": "BitTorrent",
     "symbol": "BTT",
     "address": "0x032017411f4663B317fE77C257d28D5cD1b26e3D",
-    "decimals": 6,
+    "decimals": 18,
     "chainId": 11111,
     "logoURI": "https://static.tronscan.org/production/logo/1002000.png"
   },
@@ -174,14 +174,6 @@
     "decimals": 6,
     "chainId": 11111,
     "logoURI": "https://static.tronscan.org/production/upload/logo/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK.png"
-  },
-  {
-    "name": "Centric CASH",
-    "symbol": "CNS",
-    "address": "0x7C503A569a8E62210bdCe6b3e733272e154d08ab",
-    "decimals": 8,
-    "chainId": 11111,
-    "logoURI": "https://static.tronscan.org/production/upload/logo/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt.png"
   },
   {
     "name": "NoleCoin",

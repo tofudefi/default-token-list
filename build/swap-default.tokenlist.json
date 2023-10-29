@@ -1,10 +1,10 @@
 {
   "name": "TofuSwap Tokens",
-  "timestamp": "2023-10-26T18:03:33.509Z",
+  "timestamp": "2023-10-29T19:53:19.597Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://static.tronscan.org/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png",
@@ -27,7 +27,7 @@
       "name": "BitTorrent",
       "symbol": "BTT",
       "address": "0x032017411f4663B317fE77C257d28D5cD1b26e3D",
-      "decimals": 6,
+      "decimals": 18,
       "chainId": 11111,
       "logoURI": "https://static.tronscan.org/production/logo/1002000.png"
     },
@@ -38,14 +38,6 @@
       "decimals": 18,
       "chainId": 11111,
       "logoURI": "https://static.tronscan.org/production/upload/logo/new/busd-coin1.png"
-    },
-    {
-      "name": "Centric CASH",
-      "symbol": "CNS",
-      "address": "0x7C503A569a8E62210bdCe6b3e733272e154d08ab",
-      "decimals": 8,
-      "chainId": 11111,
-      "logoURI": "https://static.tronscan.org/production/upload/logo/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt.png"
     },
     {
       "name": "TRONbetDice",
